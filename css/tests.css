@@ -1,0 +1,22 @@
+/* Style pour les tables pour les tests seulement*/
+body {
+	background-color:#DDDDDD;
+}
+table {
+	border:2px blue solid;
+	border-collapse:collapse;
+}
+th,td {
+	padding:10px 20px 10px 20px;
+	text-align:left;
+}
+th {
+	background-color:#4444CC;
+	color:white;
+	border:2px black solid;
+}
+td {
+	background-color:#DDDDFF;
+	color:#000022;
+	border:2px black solid;
+}
